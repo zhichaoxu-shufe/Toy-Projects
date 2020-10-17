@@ -1,0 +1,5 @@
+04142019 Updated Loss Function
+04142019 Updated Softmax Regression Implementation
+04172019 Updated Naive Bayes
+04172019 Updated Max A Posteriori
+04182019 Updated Implementation of RandomForest
